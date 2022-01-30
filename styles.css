@@ -1,0 +1,33 @@
+
+.link1 {
+    background-color:rgba(206, 130, 221, 0.89);font-family:'BankGothic Md BT';font:bold;font-size: 50;color: rgb(223, 196, 164);
+}
+.link2 {
+    background-color:rgba(106, 58, 116, 0.89);font-family:'BankGothic Md BT';font: bold;font-size: 30; ;font-size:40;color:  rgb(236, 185, 122);
+}
+.link3{
+    background-color:rgba(209, 141, 209, 0.89);font-family:'BankGothic Md BT';font: bold;font-size: 50;color: rgb(59, 10, 55)
+}
+.link4{
+    background-color:rgba(82, 19, 82, 0.89);font-family:'BankGothic Md BT';font: bold;font-size: 25;color: rgb(255, 255, 253);padding-left: 30;padding-right: 30;
+}
+.link5{
+    background-color:rgba(85, 56, 85, 0.89);font-family:'BankGothic Md BT';font: bold;font-size: 30;color: rgb(253, 251, 253)
+}
+
+table {
+    font-size:40 ;background-color: rgb(255, 251, 246);padding-bottom: 20px;padding-right: 20px;padding-left: 20;padding-top:20
+
+}
+tr, td, th{
+    padding: 10px;font-family: 'BankGothic Md BT'
+}
+#image1{
+    float:right;padding-right:20
+}
+#image2{
+    float:left;padding-left:50
+}
+#image3{
+    float:right;padding-right:60
+}
